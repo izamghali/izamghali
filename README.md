@@ -1,11 +1,10 @@
+## About me :v:
 
-<a href="https://github.com/izamghali">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izamghali&layout=compact&bg_color=45,3D299C,0C0E1F&color=fff&border_radius=8&title_color=fff&text_color=fff" />
-</a>
-<a href="https://github.com/izamghali">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=dark&border_radius=8&fire=70EBDE&background=49%2C3D299C%2C0C0E1F&dates=EBEBEB&ring=F9DE20&currStreakLabel=F9DE20" />
-</a>
+Hello, I'm a creative front-end developer in training based in Indonesia :indonesia:
 
+I'm currently learning three.js and React 🌱
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=transparent&border_radius=8&fire=70EBDE&dates=EBEBEB&ring=F9DE20&currStreakLabel=F9DE20&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=70EBDE)](https://git.io/streak-stats)
 
 <!--
 **izamghali/izamghali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

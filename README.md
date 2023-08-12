@@ -4,7 +4,7 @@ Hello, I'm a creative front-end developer in training based in Indonesia :indone
 
 I'm currently learning three.js and React 🌱
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=transparent&border_radius=8&fire=70EBDE&dates=EBEBEB&ring=F9DE20&currStreakLabel=F9DE20&sideLabels=EBEBEB&sideNums=EBEBEB&currStreakNum=70EBDE)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=transparent&fire=6FEBDE&ring=EB8604&currStreakNum=6FEBDE&sideNums=EBEBEB&dates=EBEBEB&sideLabels=EBEBEB&currStreakLabel=EB8604)](https://git.io/streak-stats)
 
 <!--
 **izamghali/izamghali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

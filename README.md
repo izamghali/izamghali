@@ -4,6 +4,13 @@ Hello, I'm a creative front-end developer in training based in Indonesia :indone
 
 I'm currently learning three.js and React 🌱
 
+Check out my ongoing project, [Mixin' Jam](https://izamghali.github.io/mixin-jam/), a web app where you can:
+- search for songs, artists, and albums from Spotify
+- mix and add those songs into your new personalized playlist
+- and add that new playlist into your Spotify playlist
+
+Check out my [three.js journey](https://izamghali.github.io/threejs-practice/)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=transparent&fire=6FEBDE&ring=EB8604&currStreakNum=6FEBDE&sideNums=EBEBEB&dates=EBEBEB&sideLabels=EBEBEB&currStreakLabel=EB8604)](https://git.io/streak-stats)
 
 <!--

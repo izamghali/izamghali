@@ -2,7 +2,7 @@
 
 Hello, I'm a creative front-end developer based in Indonesia :indonesia:
 
-I'm currently learning Full-stack in [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) and three.js with [this guy](https://github.com/brunosimon) 🌱
+I'm currently learning Full-stack in [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) and three.js with [this guy](https://github.com/brunosimon) in [here](https://threejs-journey.com/) 🌱
 
 Check out my ongoing project, [Mixin' Jam](https://izamghali.github.io/mixin-jam/), a React web app where you can:
 - search for songs, artists, and albums from Spotify

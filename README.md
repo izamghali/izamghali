@@ -10,8 +10,9 @@ Check out my ongoing project, [Mixin' Jam](https://izamghali.github.io/mixin-jam
 - and add that new playlist into your Spotify playlist
 
 Check out my [three.js journey](https://izamghali.github.io/threejs-practice/) as well!
-
+<!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=transparent&fire=6FEBDE&ring=EB8604&currStreakNum=6FEBDE&sideNums=EBEBEB&dates=EBEBEB&sideLabels=EBEBEB&currStreakLabel=EB8604)](https://git.io/streak-stats)
+-->
 
 <!--
 **izamghali/izamghali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

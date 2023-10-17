@@ -2,14 +2,11 @@
 
 Hello, I'm a creative front-end developer based in Indonesia :indonesia:
 
-I'm currently learning Full-stack in [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) and three.js with [this guy](https://github.com/brunosimon) in [here](https://threejs-journey.com/) 🌱
-
-Check out my ongoing project, [Mixin' Jam](https://izamghali.github.io/mixin-jam/), a React web app where you can:
-- search for songs, artists, and albums from Spotify
-- mix and add those songs into your new personalized playlist
-- and add that new playlist into your Spotify playlist
+I'm currently learning Full-stack at [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) and three.js with [this guy](https://github.com/brunosimon) in [here](https://threejs-journey.com/) 🌱
 
 Check out my [three.js journey](https://izamghali.github.io/threejs-practice/) as well!
+
+:sassy_man: [my portfolio](https://izam-ghali.webflow.io/)
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=transparent&fire=6FEBDE&ring=EB8604&currStreakNum=6FEBDE&sideNums=EBEBEB&dates=EBEBEB&sideLabels=EBEBEB&currStreakLabel=EB8604)](https://git.io/streak-stats)
 -->

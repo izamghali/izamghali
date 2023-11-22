@@ -4,7 +4,7 @@ Hello, I'm a creative front-end developer based in Indonesia :indonesia:
 
 I'm currently learning Full-stack at [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) and three.js with [this guy](https://github.com/brunosimon) in [here](https://threejs-journey.com/) 🌱
 
-Check out my [three.js journey](https://izamghali.github.io/threejs-practice/) as well!
+<!-- Check out my [three.js journey](https://izamghali.github.io/threejs-practice/) as well! -->
 
 :sassy_man: [my portfolio](https://izam-ghali.webflow.io/)
 <!-- 

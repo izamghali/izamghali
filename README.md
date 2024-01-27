@@ -1,6 +1,6 @@
 ## About me :v:
 
-Hello, I'm an aspiring full-stack developer based in Indonesia :indonesia: 
+Hello, I'm an aspiring full-stack web developer based in Indonesia :indonesia: 
 currently learning at [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) 
 <!--
 and three.js with [this guy](https://github.com/brunosimon) in [here](https://threejs-journey.com/) 🌱

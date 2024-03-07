@@ -8,7 +8,9 @@ and three.js with [this guy](https://github.com/brunosimon) in [here](https://th
 
 <!-- Check out my [three.js journey](https://izamghali.github.io/threejs-practice/) as well! -->
 
-:sassy_man: [my portfolio](https://izam-ghali.webflow.io/)
+:sassy_man: [my portfolio](https://please-hire-me.vercel.app/)
+
+<!-- https://izam-ghali.webflow.io/ -->
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=izamghali&theme=transparent&fire=6FEBDE&ring=EB8604&currStreakNum=6FEBDE&sideNums=EBEBEB&dates=EBEBEB&sideLabels=EBEBEB&currStreakLabel=EB8604)](https://git.io/streak-stats)
 -->

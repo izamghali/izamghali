@@ -1,14 +1,16 @@
 ## About me :v:
 
 Hello, I'm an aspiring full-stack web developer based in Indonesia :indonesia: 
+<!-- 
 currently learning at [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) 
+-->
 <!--
 and three.js with [this guy](https://github.com/brunosimon) in [here](https://threejs-journey.com/) 🌱
 -->
 
 <!-- Check out my [three.js journey](https://izamghali.github.io/threejs-practice/) as well! -->
 
-:sassy_man: [my portfolio](https://please-hire-me.vercel.app/)
+:sassy_man: [my portfolio](https://izamghali.vercel.app/)
 
 <!-- https://izam-ghali.webflow.io/ -->
 <!-- 
